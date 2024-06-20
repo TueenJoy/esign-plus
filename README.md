@@ -1,5 +1,5 @@
 # esignature
-
+基于vue-sign实现电子签名功能的vue2demo 
 ## Project setup
 ```
 npm install
